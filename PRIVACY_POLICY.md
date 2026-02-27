@@ -17,6 +17,7 @@ For privacy questions or data requests:
 Depending on features used, we may process:
 
 - Discord account data (user ID, username, display name);
+- Bonk.io profile data (nickname, account level, and selected account skin);
 - server/channel/message metadata needed to run commands and bot features;
 - command and interaction content submitted to EloBot;
 - moderation and security logs (timestamps, action type, abuse indicators);
